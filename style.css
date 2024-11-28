@@ -1,0 +1,115 @@
+body {
+  color: #ffefbf;
+  text-align: center;
+  font-family: 'Caveat', 'Comic Sans MS', sans-serif;
+  background-image: url('/images/teacats.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: scroll;
+}
+
+h1 {
+  font-size: 7rem;
+  color: #b1eca6;
+}
+
+h2{
+  font-size: 6rem;
+}
+
+h3{
+  font-size: 5rem;
+}
+
+h4{
+  font-size: 4rem;
+}
+
+p.bodyText {
+  font-size: 3rem;
+}
+
+img.header {
+  width: 100%;
+  height: auto;
+}
+
+img.profilephoto {
+  width: 50%;
+  height: auto;
+  border-radius: 75%;
+}
+
+div.galleryAlters {
+  border: .13rem solid #ffefbf;
+  padding: .5rem;
+  margin: .5rem;
+  width: 25%;
+  display:inline-block;
+}
+
+div.galleryAlters:hover {
+  border: .13rem solid #7c9b4f;
+  padding: .5rem;
+  margin: .5rem;
+}
+
+div.galleryAlters img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+div.alterDesc {
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+footer {
+  padding: 1rem;
+  position: relative;
+  bottom: 0;
+  width: 100;
+  background-image: url('/images/homepagefooter.png');
+  background-size: cover;
+  background-position: center;
+}
+
+a:link{
+  color: #8ab9d9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8ab9d9;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #9c8ad9
+}
+
+a:active {
+  color: #eaeb82;
+}
+
+a.socials {
+  border: #1c1c1c;
+  border-radius: 50%;
+  
+}
+
+p.footerText {
+  font: .75rem, bold;
+  color: #b1eca6;
+}
+
+
+p.creditsText {
+  font-size: 2rem;
+}
+
+p.errorText {
+  font-size: 2rem;
+  color: #eaeb82;
+}
