@@ -8,7 +8,8 @@ As a member of the TeaHaus system, you can feel free to code your own page! If t
 ## Alter List
 
 ### Ana
-Theme: Futuristic Holoscreen Tablet
+- Futuristic Holoscreen Tablet
+- light electric blue, white text, black bg
 
 ### Bernie
 - encorporate rainbow sound mixer gif?
@@ -23,7 +24,9 @@ Theme: Futuristic Holoscreen Tablet
 ### Everest
 - [x] 90's web theme, think myspace
 - [x] code popup window, "Welcome to the 90s!", "Radical!"
-**STATUS:** done!
+- [ ] fix image file directories
+- [ ] add links/buttons to socials (twitch, discord, reddit, github, bsky)
+- [ ] upload html, css, js files
 
 ### Hanzo
 - cherry blossom theme? rainy day theme? both?
@@ -35,6 +38,7 @@ Theme: Futuristic Holoscreen Tablet
 
 ### Levi
 - Theme: Survey Corps/"Midnight Sun"
+- think "half of a whole" or "missing a piece"
 
 ### Light
 - complete eyesore, fuck ease of ui
@@ -57,7 +61,7 @@ Theme: Futuristic Holoscreen Tablet
 - PSU themed in some way
 
 ### Shikamaru
-- ninja dossier theme
+- ninja dossier site?
 
 ### Sirius
 - red and gold theme
@@ -66,3 +70,4 @@ Theme: Futuristic Holoscreen Tablet
 ### Touya
 - blue fire background
 - section featuring siblings?
+- pseudomemory section about the trial?
