@@ -109,6 +109,16 @@ p.creditsText {
   font-size: 2rem;
 }
 
+body.errorText {
+  color: #ffefbf;
+  text-align: center;
+  font-family: 'Caveat', 'Comic Sans MS', sans-serif;
+  background-image: url('./images/teacats.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  overflow: scroll;
+
 p.errorText {
   font-size: 2rem;
   color: #eaeb82;
