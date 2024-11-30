@@ -15,6 +15,7 @@ As a member of the TeaHaus system, you can feel free to code your own page! If t
 - encorporate rainbow sound mixer gif?
 - punk theme
 - music in background?
+- eclectic core, maybe background with hyperfixation symbols (les mis, hp, etc)
 
 ### Bug
 - lots of dinos and sharks
@@ -25,6 +26,7 @@ As a member of the TeaHaus system, you can feel free to code your own page! If t
 - [x] 90's web theme, think myspace
 - [x] code popup window, "Welcome to the 90s!", "Radical!"
 - [ ] fix image file directories
+- [ ] fix website responsiveness across mobile/tablet/desktop
 - [ ] add links/buttons to socials (twitch, discord, reddit, github, bsky)
 - [ ] upload html, css, js files
 
@@ -33,7 +35,7 @@ As a member of the TeaHaus system, you can feel free to code your own page! If t
 - be able to feature his writing
 
 ### Junta
-- japanese/biking/Sohoku theme?
+- japanese/biking/Sohoku theme? torii gate in background?
 - look like a school id on a desk?
 
 ### Levi
