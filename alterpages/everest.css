@@ -2,7 +2,7 @@ body {
   background-color: #018281;
   font-family: 'VT323', monospace;
   font-size: 1rem;
-  cursor: url('/alterpages/alterimages/oldcursor.cur');
+  cursor: url('./alterimages/oldcursor.cur');
 }
 
 .popup {
@@ -19,7 +19,7 @@ body {
 }
 
 .popup-content {
-  background-image: url('/alterpages/alterimages/windows95popup.png');
+  background-image: url('./alterimages/windows95popup.png');
   background-size: 100% 100%;
   margin: 15% auto;
   padding: 1.5rem;
